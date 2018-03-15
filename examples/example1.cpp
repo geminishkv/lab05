@@ -1,5 +1,5 @@
 #include <print.hpp>
 
-int ,ain(int argc, char** argv) {
+int main(int argc, char** argv) {
 print("hello");
 }
